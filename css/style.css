@@ -1,0 +1,23 @@
+body { 
+    font-family: Arial, 
+    sans-serif; 
+    margin: 0; 
+    padding: 0; 
+}
+header, footer { 
+    background-color: #333; 
+    color: white; 
+    padding: 1em; 
+    text-align: center; 
+}
+nav a{
+    color: cyan;
+}
+nav a :visited{ 
+    margin: 0 15px; 
+    color: cyan; 
+    text-decoration: none; 
+}
+section { 
+    padding: 2em; 
+}
